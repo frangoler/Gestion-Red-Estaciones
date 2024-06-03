@@ -43,8 +43,7 @@ En este proceso de desarrollo, se prestó especial atención a la
 modularidad y la escalabilidad del código, permitiendo futuras
 expansiones del proyecto con facilidad.
 
-![Diagrama DBeaver](IMG/redestaciones DBEAVER.png){#fig:pseudo
-width="0.5\\linewidth"}
+![Diagrama DBeaver](IMG/redestaciones DBEAVER.png)
 
 ## Aclaraciones de código importantes 
 
@@ -122,8 +121,7 @@ desde python. Igualmente recomendamos ejecutar estos últimos
 ya realizado para poder comparar lo obtenido con la figura de
 conexionado que incluimos a continuación:
 
-![Diagrama DBeaver](IMG/CONEXIONES.png){#fig:pseudo
-width="0.4\\linewidth"}
+![Diagrama DBeaver](IMG/CONEXIONES.png)
 
 Para cumplir el conexionado base, ejecutar el archivo antes mencionado
 en orden. En el caso de las revisiones se deben cargar desde python.
