@@ -43,7 +43,7 @@ En este proceso de desarrollo, se prestó especial atención a la
 modularidad y la escalabilidad del código, permitiendo futuras
 expansiones del proyecto con facilidad.
 
-![Diagrama DBeaver](IMG/redestaciones DBEAVER.png)
+![Diagrama DBeaver](IMG/redestaciones-DBEAVER.png)
 
 ## Aclaraciones de código importantes 
 
