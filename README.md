@@ -137,5 +137,3 @@ esas tablas.
 **Todo preparado para usar el programa!**
 
 
-![Diagrama ENTIDAD-RELACION](IMG/E-R.png){#fig:UML width="1\\linewidth"}
-
