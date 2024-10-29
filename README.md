@@ -2,7 +2,7 @@
 
 
 En este proyecto, se creó y diseñó una base de datos para una empresa
-que realiza obras hídricas sobre el Río Colorado. La base de datos
+que realiza obras hídricas sobre el Río Colorado, en la materia Principio de Computadoras II. La base de datos
 incluye dos clases de sensores, uno para temperatura de agua y otro para velocidad del viento.
 El de agua viene de dos tipos, uno que mide la temperatura en Kelvin y
 otro el Celsius, en cambio, el de viento solamente mide en m/s y al
@@ -121,7 +121,6 @@ desde python. Igualmente recomendamos ejecutar estos últimos
 ya realizado para poder comparar lo obtenido con la figura de
 conexionado que incluimos a continuación:
 
-![Diagrama DBeaver](IMG/CONEXIONES.png)
 
 Para cumplir el conexionado base, ejecutar el archivo antes mencionado
 en orden. En el caso de las revisiones se deben cargar desde python.
